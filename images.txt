@@ -1,1 +1,1 @@
-jupyter/pytorch-notebook
+jupyter/datascience-notebook
