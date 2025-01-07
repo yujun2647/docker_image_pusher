@@ -1,1 +1,1 @@
-jupyter/datascience-notebook
+localai/localai:latest-cpu
