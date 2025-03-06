@@ -1,1 +1,1 @@
-localai/localai:v2.24.2-sycl-f32-ffmpeg
+budtmo/docker-android:emulator_11.0
