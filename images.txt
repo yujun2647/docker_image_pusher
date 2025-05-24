@@ -1,1 +1,1 @@
-redis
+python:3.10
